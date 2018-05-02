@@ -371,8 +371,6 @@ tags:
     description: Endpoints related to uploading and managing plugins.
   - name: roles
     description: Endpoints for creating, getting and updating roles.
-  - name: schemes
-    description: Endpoints for creating, getting and updating and deleting schemes.
 x-tagGroups:
   - name: Introduction
     tags:
@@ -412,7 +410,6 @@ x-tagGroups:
       - jobs
       - plugins
       - roles
-      - schemes
 schemes:
   - http
   - https
